@@ -1,0 +1,15 @@
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\bin\Debug\net7.0\tp9.exe
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\bin\Debug\net7.0\tp9.deps.json
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\bin\Debug\net7.0\tp9.runtimeconfig.json
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\bin\Debug\net7.0\tp9.dll
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\bin\Debug\net7.0\tp9.pdb
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\obj\Debug\net7.0\tp9.csproj.AssemblyReference.cache
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\obj\Debug\net7.0\tp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\obj\Debug\net7.0\tp9.AssemblyInfoInputs.cache
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\obj\Debug\net7.0\tp9.AssemblyInfo.cs
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\obj\Debug\net7.0\tp9.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\obj\Debug\net7.0\tp9.dll
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\obj\Debug\net7.0\refint\tp9.dll
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\obj\Debug\net7.0\tp9.pdb
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\obj\Debug\net7.0\tp9.genruntimeconfig.cache
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp9_2023-0ignacio\tp9\obj\Debug\net7.0\ref\tp9.dll
